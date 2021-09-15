@@ -18,3 +18,4 @@ dependencies:
     - PyYAML # yml files
     - arxiv
     - cleantext
+    - ray
